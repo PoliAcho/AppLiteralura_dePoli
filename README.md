@@ -2,10 +2,12 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD032 -->
 <!-- markdownlint-disable MD022 -->
+
 <img src="Portada.jpg" alt="imagen de Portada" style="width: 100%;">
 
 El desafío consiste en crear una aplicación usando los conocimientos recibidos hasta el momento en los cursos anteriores.
 Dicha aplicación debe implementar el siguiente menú:
+
 <p align="center">
   <img src="Captura00.jpg" alt="Propuesta" style="width: 40%;">
 </p>
@@ -13,20 +15,14 @@ Dicha aplicación debe implementar el siguiente menú:
 ## Descripción de las funcionalidades a cumplir
 
 * En la opción 1 (la más compleja a mi parecer) se solicita al usuario ingrese el nombre del libro (o autor) a buscar. Para satisfacer esa requisitoria, la lógica de programación se divide en dos partes:
-
   * En la primera debemos conectarnos a la API Gutendex para obtener datos del libro/autor solicitado.
   * En la segunda deberemos conectarnos a una base de datos (PostgreSQL) para registrar esos datos.
-
-* La opción 2 consulta la base de datos para mostrar, al usuario, lo solicitado: los libros que se registraron.
-  
+* La opción 2 consulta la base de datos para mostrar, al usuario, lo solicitado: los libros que se registraron.  
 * La opción 3, del mismo modo, consulta la bases de datos para mostrar los autores que se registraron.
-
 * La opción 4 solicita al usurario que ingrese un año para mostrar los autores (registrados) que estuvieron vivos en dicho año.
-
 * La opción 5 lista los idiomas habilitados y solicita se ingrese un idioma para listar los libros registrados que están en es idioma.
   
 En todas las opciones se debe realizar un control (mínimo) de que lo ingresado por el usuario es admisible por la aplicación.
-
 Si bien la aplicación cumple con estas cinco funcionalidades que propuso el instructor Eric Monné Fraga de Olivera, y  que él califica de sencillas, he querido dar un pasito más. Atendiendo al constantemente incentivo de la instructora Génesys Rondón, agruegué una opción mas, que me costó, pero me deja más satisfecho.
 
 * Opción 6. Lista los autores registrados y pide se elija uno para listar los libros de su autoría que estén en la bases de datos.
@@ -44,47 +40,48 @@ Agregé la opción 6 (un desafío personal) como ya mencioné anteriormente.
 En esta imagen se muestra como está estructurada la aplicación.
 La clase inicial LiteraluraApplication en la raiz, tal como lo hace Spring Initializr.
 Tomé como modalidad personal procurar que los nombres de los paquetes y las clases se limiten a cuatro letras, anteponiendo la inicial del tipo de clase.
+
 <img src="Captura01.jpg" alt="Estructura" style="width: 40%;">
 
-* Opción 1 e ingreso de nombre del libro a buscar
+### Opción 1 e ingreso de nombre del libro a buscar
 
 <img src="Captura02.jpg" alt="Opción1a_libro" style="width: 35%;">
 <img src="Captura03.jpg" alt="Opción1b_libro" style="width: 35%;">
 
-* Opción 1 e ingreso de nombre del autor a buscar
+### Opción 1 e ingreso de nombre del autor a buscar
 
 <img src="Captura04.jpg" alt="Opción1a_autor" style="width: 35%;">
 <img src="Captura05.jpg" alt="Opción1b_autor" style="width: 35%;">
 
-* Opción 2
+### Opción 2 y lista de libros
 
 <img src="Captura06.jpg" alt="Opción2a" style="width: 35%;">
 <img src="Captura07.jpg" alt="Opción2b" style="width: 35%;">
 
-* Opción 3
+### Opción 3 y lista de autores
 
 <img src="Captura08.jpg" alt="Opción3a" style="width: 35%;">
 <img src="Captura09.jpg" alt="Opción3b" style="width: 35%;">
 
-* Opción 4 e ingreso del año
+### Opción 4 e ingreso del año
 
 <img src="Captura10.jpg" alt="Opción4a" style="width: 35%;">
 <img src="Captura11.jpg" alt="Opción4b" style="width: 35%;">
 
-* Opción 5 e ingreso de opciones de idiomas diversos (nótese los títulos en japones y chino)
+### Opción 5 e ingreso de opciones de idiomas diversos (nótese los títulos en japones y chino)
 
 <img src="Captura12.jpg" alt="Opción5a" style="width: 35%;">
 <img src="Captura13.jpg" alt="Opción5b" style="width: 35%;">
 <img src="Captura14.jpg" alt="Opción5c" style="width: 35%;">
 <img src="Captura15.jpg" alt="Opción5d" style="width: 35%;">
 
-* Opción 6
+### Opción 6, menú de autores y lista de libros
 
-<img src="Captura16.jpg" alt="Opción6a" style="width: 35%;">
-<img src="Captura17.jpg" alt="Opción6b" style="width: 35%;">
-<img src="Captura18.jpg" alt="Opción6c" style="width: 35%;">
+<img src="Captura16.jpg" alt="Opción6a" style="width: 30%;">
+<img src="Captura17.jpg" alt="Opción6b" style="width: 30%;">
+<img src="Captura18.jpg" alt="Opción6c" style="width: 30%;">
 
-* Opción 0 y salida de la aplicacíon
+### Opción 0 y salida de la aplicacíon
 
 <img src="Captura19.jpg" alt="Opción9a" style="width: 35%;">
 <img src="Captura20.jpg" alt="Opción9b" style="width: 35%;">
