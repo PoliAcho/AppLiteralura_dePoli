@@ -12,7 +12,7 @@ Dicha aplicación debe implementar el siguiente menú:
 
 ## Descripción de las funcionalidades a cumplir
 
-* En la opción 1 (la más compleja a mi parecer) se solicita al usuario ingrese el nombre del libro (o autor) a buscar. Para satisfacer esa requitoria, la lógica de programación se divide en dos partes:
+* En la opción 1 (la más compleja a mi parecer) se solicita al usuario ingrese el nombre del libro (o autor) a buscar. Para satisfacer esa requisitoria, la lógica de programación se divide en dos partes:
 
   * En la primera debemos conectarnos a la API Gutendex para obtener datos del libro/autor solicitado.
   * En la segunda deberemos conectarnos a una base de datos (PostgreSQL) para registrar esos datos.
@@ -31,7 +31,7 @@ Si bien la aplicación cumple con estas cinco funcionalidades que propuso el ins
 
 * Opción 6. Lista los autores registrados y pide se elija uno para listar los libros de su autoría que estén en la bases de datos.
 
-### Mejoras a la porpuesta inicial
+### Mejoras a la propuesta inicial
 
 La opción 1 registraba el primer libro que proveía la API Gutendex. Quise que el usuario (y yo mismo) tuviera más opciones. Por ello ahora se podrian mostrar todos los libros que devuelva la API, ordenados por los que tienen el mayor número de descargas. Por razones prácticas lo limité a solo doce; y el usuario tendrá la pobilidad de elegir cuál libro registrar o de no registrar ninguno.
 
