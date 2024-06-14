@@ -44,50 +44,50 @@ Agregé la opción 6 (un desafío personal) como ya mencioné anteriormente.
 En esta imagen se muestra como está estructurada la aplicación.
 La clase inicial LiteraluraApplication en la raiz, tal como lo hace Spring Initializr.
 Tomé como modalidad personal procurar que los nombres de los paquetes y las clases se limiten a cuatro letras, anteponiendo la inicial del tipo de clase.
-<img src="Captura01.jpg" alt="Opción1" style="width: 40%;">
+<img src="Captura01.jpg" alt="Estructura" style="width: 40%;">
 
 * Opción 1 e ingreso de nombre del libro a buscar
 
-<img src="Captura02.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura03.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura02.jpg" alt="Opción1a_libro" style="width: 35%;">
+<img src="Captura03.jpg" alt="Opción1b_libro" style="width: 35%;">
 
 * Opción 1 e ingreso de nombre del autor a buscar
 
-<img src="Captura04.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura05.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura04.jpg" alt="Opción1a_autor" style="width: 35%;">
+<img src="Captura05.jpg" alt="Opción1b_autor" style="width: 35%;">
 
 * Opción 2
 
-<img src="Captura06.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura07.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura06.jpg" alt="Opción2a" style="width: 35%;">
+<img src="Captura07.jpg" alt="Opción2b" style="width: 35%;">
 
 * Opción 3
 
-<img src="Captura08.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura09.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura08.jpg" alt="Opción3a" style="width: 35%;">
+<img src="Captura09.jpg" alt="Opción3b" style="width: 35%;">
 
 * Opción 4 e ingreso del año
 
-<img src="Captura10.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura11.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura10.jpg" alt="Opción4a" style="width: 35%;">
+<img src="Captura11.jpg" alt="Opción4b" style="width: 35%;">
 
 * Opción 5 e ingreso de opciones de idiomas diversos (nótese los títulos en japones y chino)
 
-<img src="Captura12.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura13.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura14.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura15.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura12.jpg" alt="Opción5a" style="width: 35%;">
+<img src="Captura13.jpg" alt="Opción5b" style="width: 35%;">
+<img src="Captura14.jpg" alt="Opción5c" style="width: 35%;">
+<img src="Captura15.jpg" alt="Opción5d" style="width: 35%;">
 
 * Opción 6
 
-<img src="Captura16.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura17.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura18.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura16.jpg" alt="Opción6a" style="width: 35%;">
+<img src="Captura17.jpg" alt="Opción6b" style="width: 35%;">
+<img src="Captura18.jpg" alt="Opción6c" style="width: 35%;">
 
 * Opción 0 y salida de la aplicacíon
 
-<img src="Captura19.jpg" alt="Opción1" style="width: 35%;">
-<img src="Captura20.jpg" alt="Opción1" style="width: 35%;">
+<img src="Captura19.jpg" alt="Opción9a" style="width: 35%;">
+<img src="Captura20.jpg" alt="Opción9b" style="width: 35%;">
 
 <!-- markdownlint-enable MD033 -->
 
