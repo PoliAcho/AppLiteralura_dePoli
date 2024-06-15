@@ -23,7 +23,7 @@ Dicha aplicación debe implementar el siguiente menú:
 * La opción 5 lista los idiomas habilitados y solicita se ingrese un idioma para listar los libros registrados que están en es idioma.
   
 En todas las opciones se debe realizar un control (mínimo) de que lo ingresado por el usuario es admisible por la aplicación.
-Si bien la aplicación cumple con estas cinco funcionalidades que propuso el instructor Eric Monné Fraga de Olivera, y  que él califica de sencillas, he querido dar un pasito más. Atendiendo al constantemente incentivo de la instructora Génesys Rondón, agruegué una opción mas, que me costó, pero me deja más satisfecho.
+Si bien la aplicación cumple con estas cinco funcionalidades que propuso el instructor Eric Monné Fraga de Olivera, y  que él califica de sencillas, he querido dar un pasito más. Atendiendo al constante incentivo de la instructora Génesys Rondón, agruegué una opción mas, que me costó, pero me deja más satisfecho.
 
 * Opción 6. Lista los autores registrados y pide se elija uno para listar los libros de su autoría que estén en la bases de datos.
 
